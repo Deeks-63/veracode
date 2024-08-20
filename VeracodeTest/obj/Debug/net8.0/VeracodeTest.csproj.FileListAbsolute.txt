@@ -1,0 +1,15 @@
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/bin/Debug/net8.0/VeracodeTest
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/bin/Debug/net8.0/VeracodeTest.deps.json
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/bin/Debug/net8.0/VeracodeTest.runtimeconfig.json
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/bin/Debug/net8.0/VeracodeTest.dll
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/bin/Debug/net8.0/VeracodeTest.pdb
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/VeracodeTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/VeracodeTest.AssemblyInfoInputs.cache
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/VeracodeTest.AssemblyInfo.cs
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/VeracodeTest.csproj.CoreCompileInputs.cache
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/VeracodeTest.sourcelink.json
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/VeracodeTest.dll
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/refint/VeracodeTest.dll
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/VeracodeTest.pdb
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/VeracodeTest.genruntimeconfig.cache
+/Users/GOYALDE/Documents/veracode/veracode/VeracodeTest/obj/Debug/net8.0/ref/VeracodeTest.dll
