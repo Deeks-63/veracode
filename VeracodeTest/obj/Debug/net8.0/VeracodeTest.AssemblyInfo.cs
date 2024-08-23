@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VeracodeTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6413ea8ba6bd0c7f75de7ad7bdbe65bd8f7ad63c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43946fc15db4d926b195541d74bcee210459407a")]
 [assembly: System.Reflection.AssemblyProductAttribute("VeracodeTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VeracodeTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
