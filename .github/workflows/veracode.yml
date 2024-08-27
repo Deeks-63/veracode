@@ -48,10 +48,7 @@ jobs:
     - name: Build the application
       run: dotnet build --configuration debug  #TODO:- //need to write the output folder 
 
-    - name: Publish the application
-      run: dotnet publish --configuration Release --output ./publish
-
-    - run: zip -r veracode-scan-target.zip ./publish
+    - run: zip -r veracode-scan-target.zip ./
 
     - name: Veracode Upload And Scan
       uses: veracode/veracode-uploadandscan-action@0.2.1
